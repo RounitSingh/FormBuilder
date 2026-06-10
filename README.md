@@ -1,5 +1,7 @@
 # Form Builder — Laravel Blade Assignment
 
+Deployement link: https://form-builder-v2-three.vercel.app/
+
 A drag-and-drop Form Builder UI built with Laravel Blade, Alpine.js, Tailwind CSS, and SortableJS.
 
 ## Setup
